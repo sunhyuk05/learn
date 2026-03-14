@@ -3,8 +3,7 @@ This repository serves as a living document of my technical growth.
 These posts aren't finished products, but snapshots of my current understanding. Please treat these as digital whiteboards; as I am still in the process of learning, certain entries may contain misinformed or outdated data.
 
 Credits: The structure of this list was motivated by [@gyuho's](https://github.com/gyuho) [learn](https://github.com/gyuho/learn) repo.
-
-<br><hr>
+<hr>
 
 ### Contents
 - [Kubernetes](#kubernetes)
@@ -19,4 +18,4 @@ Credits: The structure of this list was motivated by [@gyuho's](https://github.c
 > [*Kubernetes*](https://kubernetes.io/docs/concepts/overview/) *by The Linux Foundation*
 
 [↑ top](#contents)
-<br><br>
+<hr>
