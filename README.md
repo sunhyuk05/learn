@@ -1,3 +1,22 @@
-A compiled list of my technical journey, centered on mastering Go and building resilient distributed systems.
+This repository serves as a living document of my technical growth.
 
-These posts aren't finished products, but snapshots of my current understanding. I’m here to document the process, iterate on my code and learning, and improve my knowledge through the act of explaining.
+These posts aren't finished products, but snapshots of my current understanding. Please treat these as digital whiteboards; as I am still in the process of learning, certain entries may contain misinformed or outdated data.
+
+Credits: The structure of this list was motivated by [@gyuho's](https://github.com/gyuho) [learn](https://github.com/gyuho/learn) repo.
+
+<br><hr>
+
+### Contents
+- [Kubernetes](#kubernetes)
+
+
+## Kubernetes
+
+> Kubernetes is a portable, extensible, open source platform
+> for managing containerized workloads and services that facilitate
+> both declarative configuration and automation.
+> 
+> [*Kubernetes*](https://kubernetes.io/docs/concepts/overview/) *by The Linux Foundation*
+
+[↑ top](#contents)
+<br><br>
