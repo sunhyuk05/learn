@@ -12,9 +12,9 @@ Credits: The structure of this list was motivated by [@gyuho's](https://github.c
 ## Linux
 Linux is essential in software development.
 
-- [*linux: ssh*]()
-- [*linux: systemd*]()
-- [*linux: journalctl*]()
+- [*linux: ssh*](https://github.com/joycaleb9705/learn/tree/main/docs/linux_ssh)
+- [*linux: systemd*](https://github.com/joycaleb9705/learn/tree/main/docs/linux_systemd)
+- [*linux: journalctl*](https://github.com/joycaleb9705/learn/tree/main/docs/linux_journalctl)
 
 [↑ top](#contents)
 <hr>
