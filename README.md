@@ -6,8 +6,18 @@ Credits: The structure of this list was motivated by [@gyuho's](https://github.c
 <hr>
 
 ### Contents
+- [Linux](#linux)
 - [Kubernetes](#kubernetes)
 
+## Linux
+Linux is essential in software development.
+
+- [*linux: ssh*]()
+- [*linux: systemd*]()
+- [*linux: journalctl*]()
+
+[↑ top](#contents)
+<hr>
 
 ## Kubernetes
 
