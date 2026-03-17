@@ -14,7 +14,6 @@ Linux is essential in software development.
 
 - [*linux: ssh*]()
 - [*linux: systemd*]()
-- [*linux: journalctl*]()
 
 [↑ top](#contents)
 <hr>
