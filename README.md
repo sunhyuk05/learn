@@ -25,7 +25,7 @@ Linux is essential in software development.
 > 
 > [*Kubernetes*](https://kubernetes.io/docs/concepts/overview/) *by The Linux Foundation*
 
-- [*k8s: basics*]()
+- [*k8s: basics*](https://github.com/joycaleb9705/learn/tree/main/docs/k8s_basics)
 
 [↑ top](#contents)
 <hr>
