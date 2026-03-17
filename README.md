@@ -19,12 +19,13 @@ Linux is essential in software development.
 <hr>
 
 ## Kubernetes
-
 > Kubernetes is a portable, extensible, open source platform
 > for managing containerized workloads and services that facilitate
 > both declarative configuration and automation.
 > 
 > [*Kubernetes*](https://kubernetes.io/docs/concepts/overview/) *by The Linux Foundation*
+
+- [*k8s: basics*]()
 
 [↑ top](#contents)
 <hr>
