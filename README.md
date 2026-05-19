@@ -12,8 +12,8 @@ Credits: The structure of this list was motivated by [@gyuho's](https://github.c
 ## Linux
 Linux is essential in software development.
 
-- [*linux: ssh*](https://github.com/joycaleb9705/learn/tree/main/docs/linux_ssh)
-- [*linux: systemd*](https://github.com/joycaleb9705/learn/tree/main/docs/linux_systemd)
+- [*linux: ssh*](https://github.com/sunhyuk05/learn/tree/main/docs/linux_ssh)
+- [*linux: systemd*](https://github.com/sunhyuk05/learn/tree/main/docs/linux_systemd)
 
 [↑ top](#contents)
 <hr>
@@ -25,7 +25,8 @@ Linux is essential in software development.
 > 
 > [*Kubernetes*](https://kubernetes.io/docs/concepts/overview/) *by The Linux Foundation*
 
-- [*k8s: basics*](https://github.com/joycaleb9705/learn/tree/main/docs/k8s_basics)
+- [*k8s: basics*](https://github.com/sunhyuk05/learn/tree/main/docs/k8s_basics)
+- [*k8s: pods*](https://github.com/sunhyuk05/learn/tree/main/docs/k8s_pods)
 
 [↑ top](#contents)
 <hr>
