@@ -3,6 +3,7 @@
 - [Description](#description)
 - [Patterns](#patterns)
 - [Using Pods](#using-pods)
+- [Working with Pods](#working-with-pods)
 <hr>
 
 ### Reference
@@ -45,3 +46,16 @@ spec:
     - containerPort: 80
 
 ```
+
+#### Managing Pods
+Even in the case of a singleton Pods, you usually don't create the Pods directly. Instead, they are created using workload resources such as Deployment or Job. This is because Pods are designed as relatively ephemeral, disposable entities.
+- Deployment: High level resource object that manages a replicated application
+- Job: A finite or batch task that runs to completion
+
+Each Pod is meant to run a single instance of a given application. If horizontal scaling is required, replication is used (multiple Pods with a single instance). Replicated Pods are usually created and managed as a group by a workload resource and its controller.
+
+Pods natively provide two kinds of shared resources for their constituent containers: networking and storage.
+
+<hr>
+
+### Working with Pods
