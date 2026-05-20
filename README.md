@@ -27,6 +27,7 @@ Linux is essential in software development.
 
 - [*k8s: basics*](https://github.com/sunhyuk05/learn/tree/main/docs/k8s_basics)
 - [*k8s: pods*](https://github.com/sunhyuk05/learn/tree/main/docs/k8s_pods)
+- [*k8s: objects*](https://github.com/sunhyuk05/learn/tree/main/docs/k8s_objects)
 
 [↑ top](#contents)
 <hr>
