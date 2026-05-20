@@ -4,6 +4,8 @@
 - [Patterns](#patterns)
 - [Using Pods](#using-pods)
 - [Working with Pods](#working-with-pods)
+- [Resource Sharing and Communication](#resource-sharing-and-communication)
+- [Static Pods](#static-pods)
 <hr>
 
 ### Reference
@@ -59,3 +61,25 @@ Pods natively provide two kinds of shared resources for their constituent contai
 <hr>
 
 ### Working with Pods
+When a Pod gets created, the new Pod is scheduled to run on a Node in your cluser. The Pod remains on that node until the Pod finishes execution, object is deleted, is evicted for lack or resources, or the node fails.
+
+<hr>
+
+### Resource Sharing and Communication
+#### Storage
+A Pod can specify a set of shared storage volumes. All containers in the Pod can access the shared volumes. Volumes also allow persistent data in a Pod to survive in case one of the containers wthin needs to be restarted.
+
+#### Networking
+Each Pod is uniquely assigned an IP address. Every container in a Pod shares the network namespace, including the IP address and network ports.
+
+Inside a Pod, the containers that belong to the Pod can communicate with one another using `localhost`. When communicating with outside entities, they must coordinate how they use the shared network resources.
+
+<hr>
+
+### Static Pods
+Static Pods are managed directly by the kubelet daemon on a specific node, without the API server observing them. While most POds are managed by the control plane, kubelet directly supervises each static Pod.
+- Kubelet: an agent that runs on each node in the cluster; ensures containers are running in pod.
+
+Main use for static Pods is to run a self-hosted controle plane; using the kubelet to supervise the individual control plane components.
+
+<hr>
